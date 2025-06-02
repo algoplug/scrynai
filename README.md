@@ -1,6 +1,6 @@
 # ScrynAI
 
-![ScrynAI Logo](icon.png)
+<img src="/icon.png" alt="ScrynAI Logo" width="100" height="100">
 
 ## What is ScrynAI?
 
