@@ -74,6 +74,7 @@ ScrynAI is your AI assistant that works right on your screen. It helps you with 
   - Click where you want the text to appear
   - Can pause and continue typing later
   - Remembers where it stopped typing
+- `Alt+K` or `Alt+H`: Toggle silent typing (printable characters only)
 
 ### Safety Features
 - `Alt+M`: Turn safe mode on/off
